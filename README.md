@@ -16,3 +16,10 @@ To run this project, you need:
 Install the required libraries using:
 ```bash
 pip install -r requirements.txt
+## Project Report
+A detailed report on the stock price prediction project is available [here](stock_price_prediction_project.pdf). This report includes:
+- Problem Statement
+- Methodology
+- Feature Engineering
+- Model Building and Evaluation
+- Conclusions
