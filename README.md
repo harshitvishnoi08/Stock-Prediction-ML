@@ -12,10 +12,6 @@ This project is a Machine Learning-based application for predicting stock prices
 To run this project, you need:
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `sklearn`, `matplotlib`
-
-Install the required libraries using:
-```bash
-pip install -r requirements.txt
 ## Project Report
 A detailed report on the stock price prediction project is available [here](stock_price_prediction_project.pdf). This report includes:
 - Problem Statement
@@ -23,3 +19,6 @@ A detailed report on the stock price prediction project is available [here](stoc
 - Feature Engineering
 - Model Building and Evaluation
 - Conclusions
+Install the required libraries using:
+```bash
+pip install -r requirements.txt
